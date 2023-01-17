@@ -30,3 +30,4 @@ for fname in file_list:
                 file_name=fname,
                 mime="image/jpg"
               )
+
